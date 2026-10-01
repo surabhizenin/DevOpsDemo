@@ -3,7 +3,7 @@ import java.util.Stack;
 
 public class Test {
     public static void main(String[] args) {
-        String s = "}";
+        String s = "{}";
         boolean isBalanced = true;
         Stack<Character> myStack = new Stack<>();
         for(char ch : s.toCharArray()){

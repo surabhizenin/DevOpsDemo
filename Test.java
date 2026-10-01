@@ -2,7 +2,7 @@ package LeetCode;
 
 import java.util.Stack;
 
-public class ValidParenthesis {
+public class test {
     public static void main(String[] args) {
         String s = "}";
         boolean isBalanced = true;
